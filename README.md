@@ -19,3 +19,7 @@ Tips:
 2, as an author, the fact that my highest score in my career is just about 25 makes me feel shamed;
 
 3, really a hard game cos the overwhelming vindictive food make you hurry scurry... 
+
+
+
+P.S. i upload a zipped rar file, while contains the directly runnable exe version on windows.
