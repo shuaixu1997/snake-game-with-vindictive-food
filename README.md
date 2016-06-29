@@ -1,6 +1,10 @@
 # snake-game-with-vindictive-food (pyqt4)
 food will randomly appear as a black obstacle after being eaten 
 
+P.S. i upload a zipped rar file, while contains the directly runnable exe version on windows.
+
+see the rules and tips below:
+
 
 ![](https://github.com/shuaixu1997/snake-game-with-vindictive-food/blob/master/snake_game_enhanced.png)
 
@@ -22,4 +26,4 @@ Tips:
 
 
 
-P.S. i upload a zipped rar file, while contains the directly runnable exe version on windows.
+
