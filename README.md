@@ -1,4 +1,4 @@
-# snake-game-with-vindictive-food
+# snake-game-with-vindictive-food (pyqt4)
 food will randomly appear as a black obstacle after being eaten 
 
 
